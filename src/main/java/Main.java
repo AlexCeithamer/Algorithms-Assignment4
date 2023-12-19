@@ -1,5 +1,7 @@
-package com;
-
+/**
+ * Main class to run the program.
+ * Authors: Alex Ceithamer, Alden Sprackling
+ */
 public class Main {
     
 
